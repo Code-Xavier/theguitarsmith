@@ -2,6 +2,8 @@ import siteMetadata from '@/data/siteMetadata'
 import projectsData from '@/data/projectsData'
 import Card from '@/components/Card'
 import { PageSEO } from '@/components/SEO'
+import El from "@/data/El";
+import Sl from "@/data/Sl";
 
 export default function Projects() {
   return (
@@ -10,12 +12,10 @@ export default function Projects() {
       <div className="divide-y divide-gray-200 dark:divide-gray-700">
         <div className="space-y-2 pt-6 pb-8 md:space-y-5">
           <h1 className="text-3xl font-extrabold leading-9 tracking-tight text-gray-900 dark:text-gray-100 sm:text-4xl sm:leading-10 md:text-5xl md:leading-14">
-            The Shadows of the Celestials Series
+          Practical Guitar For Beginners Course 
           </h1>
           <p className="text-lg leading-7 text-gray-500 dark:text-gray-400">
-            This is my first venture into writing a multi-part teen fiction novel series😎. <br />
-            Follow Asher and his friends as they fight to stay alive in a world that seems out to
-            get them and their kind! 🐲
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore.
           </p>
         </div>
         <div className="container py-12">
@@ -31,6 +31,7 @@ export default function Projects() {
             ))}
           </div>
         </div>
+        
       </div>
     </>
   )

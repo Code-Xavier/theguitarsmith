@@ -1,20 +1,50 @@
 const projectsData = [
   {
-    title: 'Shadows of the Celestials',
-    description: `Normal. It's a word Asher Hexun has never known the meaning of. He's never in the same place for long, and he's never met his mom. Not to mention he has weird markings all over his body- He has no clue what they mean and his dad won't tell him either. All he knows is that he is no normal. All these are mysteries that haunt him, until his life changes forever on his 15th birthday...`,
-    imgSrc: '/static/images/shadows.png',
-    href: '/blog/sotc/sotc',
+    title: 'Lesson 1: Monkey With A Guitar',
+    description:`"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."`,
+    imgSrc: '/static/images/monkey-music.jpg',
+    href: '/blog/abc/abc',
   },
   {
-    title: 'Throne of Desolations',
+    title: 'Lección 1: Mono Con Guitarra ',
     description: `"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."`,
-    imgSrc: '/static/images/throne.png',
+    imgSrc: '/static/images/monkey-music.jpg',
+    href: '/blog/sl2',
+  },
+  {
+    title: 'Lesson 2: Getting Comfortable',
+    description: `"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."`,
+    imgSrc: '/static/images/beyond-basics.jpg',
     href: '/blog/tod/tod',
   },
   {
-    title: 'A Bleeding Crown (Coming Soon!)',
+    title: 'Lección 2: Más Allá De Los Fundamentos',
     description: `"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."`,
-    imgSrc: '/static/images/crown.png',
+    imgSrc: '/static/images/beyond-basics.jpg',
+    href: '',
+  },
+  {
+    title: 'Lesson 3: Music Theory = Music Mastery',
+    description: `"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."`,
+    imgSrc: '/static/images/music-theory.jpg',
+    href: '',
+  },
+  {
+    title: 'Lección 3: Teoría Musical = Dominio De La Música',
+    description: `"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."`,
+    imgSrc: '/static/images/music-theory.jpg',
+    href: '',
+  },
+  {
+    title: 'Lesson 4: The Sound of Music ',
+    description: `"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."`,
+    imgSrc: '/static/images/sound-of-music.jpg',
+    href: '',
+  },
+  {
+    title: 'Lección 4: El Sonido De la Música',
+    description: `"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."`,
+    imgSrc: '/static/images/sound-of-music.jpg',
     href: '',
   },
 ]
