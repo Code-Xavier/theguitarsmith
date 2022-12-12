@@ -1,149 +1,340 @@
 ---
 title: Lesson 
 date: '12-31-2021'
-tags: ['English Lessons']
+tags: ['English Lessons', 'lessons']
 draft: false
-summary: Lesson 
+summary: 'Lesson '
 ---
 
 ![monkey](/static/images/beyond-basics.jpg)
 
-## 8 Note Strumming Patterns
+## Introduction to Music Theory 
 
-### Learn to strum like the guitarrists in your playlists!
-
-<br />
-
-8 Note Strumming patterns are based on a 4/4 time signature, and utilize the “on” as well as the “off” beat. Out loud, that sounds like “One and Two and Three and Four and” and so on. “On” beats are usually up strokes, and “off” beats are usually down strokes. Your first practicing pattern looks like this:
+#### In order to understand music, you only really need to know two things:  
 
 <br />
 
-![image](/static/images/strum4.png)
-
-<br />
-
-Once you’re comfortable with the upstrokes, and you’ve gotten the pattern down well, you can start adding color by omitting certain strokes:
-
-<br />
-
-![image](/static/images/strum5.png)
-
-<br />
-
-
-![image](/static/images/strum6.png)
-
-<br />
-
-## 8 Note Strumming – Tweaking and Emphasizing
-
-<br />
-
-Here are two tweaks that greatly enhance this existing strumming pattern:
-
-<br />
-
-![image](/static/images/strum6.png)
-
-<br />
-
- 1. Omitting the down stroke on “3”.
- 2. Placing emphasis on the “2”.
-
-
+1.	Know your letters from A to G  
+2.	Be able to count from 1 to 12 
 
 
 <br />
 
-Practice these tweaks until they become second nature. These patterns are two of the most widely used patterns in western music, especially in western music styles.
+Of course this is an oversimplified way of looking at it, but it is nevertheless true. All concepts in music theory boil down to these two abilities, so keep that in mind as you dive deeper down the rabbit hole of music theory – and remember to have fun along the way!
 
 <br />
 
-## Which Chords Do I Play?
+## Introducing the Chromatic Scale:  
 
 <br />
 
-Knowing which chords to play in a song can be quite daunting. Later when we get to music theory, we will explore why certain chords go together, but for now, the chart below will give you a cheat-sheet as to which chords to play in which key:
+![image](/static/images/chromatic.png)
 
 <br />
 
-![image](/static/images/chords3.png)
+#### The Musical Alphabet Consists of Tones and Semi-Tones:  
 
 <br />
 
-Knowing which chords to play in which key is very important, because that lets you know which chords will sound good together. Not all chords will sound good when combined into chord progressions - but when you play chord progressions with chords that belong in the same key, you start sounding like a professional!
+> a)	A whole step in music is called a tone. That means you’re skipping a note on the piano’s keyboard, or skipping a fret on the guitar fretboard  
+> b)	A half step in music is called a semi-tone. This means you don’t skip a note or fret.   
 
-<br />
-
-The best way to familiarize yourself with this concept is to simply pick a key - let's say G - and just make up your own chord progressions. Using the numbers above the columns as your guide, try the following chord progression in C, D, and G:
-
-> 1 - 4 - 5 - 1
-
-> 1 - 2 - 5 - 1
-
-> 1 - 6 - 4 - 1
-
-<br />
-
-## Barre Chords & Transposing 
-
-### Transposing – Playing the Same Chords in Different Keys
-
-<br />
-
-In music, the term “transpose” refers to playing a piece of music or song in a different key than the original. Let’s say we started a song in C, but found that it was too low for our liking, and wanted to play in D instead. On the guitar, transposition is very easy. Generally speaking, if you want to transpose a chord, you move it up or down the fret accordingly. Let’s take A minor and B minor for example:
-
-![image](/static/images/chords4.png)
-
-<br />
-
-![image](/static/images/chords5.png)
-
-<br />
-
-A Bmin is really an Amin moved 2 frets (a whole tone) up the guitar neck. The F barre chord is really just an E chord, moved up one fret by means of barring the first fret. The A and E shaped barre chords are the most common
-
-**Guitars, unlike pianos, are unique in that a capo can be used to transpose a song to any key, without actually changing the chord shapes you use to play:**
-
-<br />
-
-![image](/static/images/capo1.png)
-
-<br />
-
-![image](/static/images/capo2.png)
-
-<br />
-
-Each fret represents a semi-tone. So if you want to transpose 1 full key, you place the on the second fret, if you want to go 2 keys, place the capo 4 frets up, and so on.
-
-<br />
-
-## Fingerpicking 1 – Introduction to Fingerstyle Guitar
-
-<br />
-
-Fingerstyle guitar is my personal favorite skill. It brings out the true beauty of the instrument, and creates a way to play both melody and chords at the same time, similar to what a pianist would do. For fingerstyle guitar, we use guitar tab to create patterns which then can be played over chords.
-
-In fingerstyle guitar, we use a particular finger for each string of the guitar. We use the thumb for the thickest 3 strings, and the index, middle, and ring fingers for the other 3 strings. This is called the PIMAC system. On the fretting hand, your fingers, starting with your index finger, are numbered 1-4 respectively: 
-
-<br />
-
-![image](/static/images/pimac1.png)
-
-<br />
-
-![image](/static/images/pimac2.png)
 
 <br />
 
 
-
-### Here are some simple  fingerstyle patterns to get you started:
+![image](/static/images/scale1.png)
 
 <br />
 
-![image](/static/images/fs1.png)
+## Introducing the Major Scale  
 
 
+<br />
+
+![image](/static/images/scale2.png)
+
+<br />
+
+The Major Scale is the main scale used in just about all forms of music. The major scale is the basis for playing songs in major keys, e.g. the key of A Major.  It has a specific formula that stays the same, no matter what key you’re looking at:  
+
+<br />
+
+> Whole Step – Whole Step – Half Step – Whole Step – Whole Step – Whole Step – half Step
+
+<br />
+
+Here’s your first major scale on the guitar (a G Major Scale):
+
+<br />
+
+![image](/static/images/scale3.png)
+
+<br />
+
+#### Here is the chart for all the major scales:
+
+<br />
+
+![image](/static/images/scale4.png)
+
+<br />
+
+## Scales 2 – Introduction to the Minor Scale
+
+<br />
+
+![image](/static/images/scale5.png)
+
+<br />
+
+The Minor Scale is the basis for playing songs in minor keys, e.g. the key of Am.  Just like the major scale, the minor scale has a specific formula, no matter what note you’re starting out with. The formula is as follows:  Tone – Semitone – Tone – Tone – Semitone – Tone – Tone   In terms of whole and half steps, it would be the following:
+
+<br />
+
+> Whole Step – half Step - Whole Step – Whole Step – Half Step – Whole Step – Whole Step
+
+<br />
+
+![image](/static/images/scale6.png)
+
+<br />
+
+## The Harmonized Major and Minor Scale:
+
+<br />
+
+The chords you use to play in any key are based on the major scale of that key (or the minor scale, if you’re playing in a minor key).
+
+Once you know the notes in the major scale of the key you want to play in, and you remember the “chord formula”, you will know which chords to use, no matter what key you are playing in. Here are the formulas for scale chords in major and minor keys:
+
+<br />
+
+>Chord Formula (Major Key): Maj – Min – Min – Maj – Maj – Min – Dim
+
+>Chord Formula (Minor Key): Min – Dim – Maj – Min – Min – Maj – Maj
+
+
+<br />
+
+With this knowledge, you can play chords in any of the 12 keys. Here is a chart that combines everything you’ve learned so far: 
+
+<br />
+
+![image](/static/images/scale7.png)
+
+<br />
+
+#### But for simplicity’s sake, here are chords in keys charts for the major and minor scale, separately: 
+
+<br />
+
+![image](/static/images/scale8.png)
+
+<br />
+
+![image](/static/images/scale9.png)
+
+<br />
+
+#### Remember this chart? I hope it all makes sense now:
+
+<br />
+
+![image](/static/images/chord6.png)
+
+<br />
+
+## Triads - Building Chords From Scratch 
+
+### In lesson one, we learned that chords are made up of triads:  
+
+<br />
+
+![image](/static/images/triads1.png)
+
+<br />
+
+We will focus on Major, Minor, Diminished, Suspended, and 7th Chords  
+
+<br />
+
+### Diminished Chords  
+
+<br />
+
+Diminished chords are chords that sound “more minor than minor”. A minor chord sounds “minor” or sad with respect to the major cord. Now the diminished chord  sounds even gloomier, because now we’re flatting the 3rd and the 5th note. The VII chord in any harmonized major scale is always a Diminished chord.   
+
+When you look at the harmonized chromatic scale, things get even more interesting. The most common chord in the harmonized chromatic scale is the  
+diminished chord! Every sharp or flat note in between the notes of the major or minor scale, when harmonized, ends up being a diminished chord.  
+
+The main application of diminished chords are as passing chords. Diminished chords are mainly used as passing chords, either between the chords of the harmonized major or minor scale, or as a passing chord between the VI and I chords. Good examples are the VI – VII – I and IV – IV#dim – V progressions. 
+
+Here are some 4th, 5th, and 6th string Diminished chord shapes:  
+
+<br />
+
+![image](/static/images/dim.png)
+
+<br />
+
+### Major Seventh and Seventh Chords  
+
+<br />
+
+Two of the most important harmonic chords are the 7th and major 7th Chords:  
+
+<br />
+
+![image](/static/images/chords7.png)
+
+<br />
+
+The 7th and Major 7th part of the names come from the scale interval the extra note added to the triad occupies on the chromatic scale. Recall scale intervals:  
+
+<br />
+
+![image](/static/images/scale10.png)
+
+<br />
+
+The Major 7th Chord is used primarily as a harmonic substitute chord for the I and IV chords. It gives a soft, dreamy, beautiful sound. Here are some major 7th open chord shapes:  
+
+<br />
+
+![image](/static/images/dim7.png)
+
+<br />
+
+Seventh chords, also known as dominant 7th chords, are used as harmonic substitutes for just about every major chord, and for some minor chords as well. Their most common uses however are the following:  
+
+<br />
+
+  
+1.	Substituting V 7th for the V chord (e.g. G for G7), especially at the end of a musical section ( e.g. F – G7 – C)  
+  
+2.	Substituting I 7th for I in a I – IV progression (e.g. C7 – F)  
+  
+3.	As a substitute for the III chord in a I – III – VI progression (e.g. C – E7 –  
+Am), such as in What A Wonderful World  
+  
+4.	As a replacement for major triads in Blues and Jazz music (e.g. replacing      A – D – E with A7 – D7 – E7)  
+
+
+<br />
+
+Here are some dominant 7th chord shapes:  
+
+<br />
+
+![image](/static/images/chords8.png)
+
+<br />
+
+### Suspended Chords  
+
+<br />
+
+There are two types of suspended chords – suspended 2 (sus2) and suspended 
+4 (sus4) chords. The name “suspended” comes from the feeling  you get when you hear the chord – it leaves you in suspense, waiting for the sound to be resolved back to the major triad.  
+  
+Suspended chords are formed by replacing the 3rd interval with either the major 2nd or 4th interval to in major triad:  
+
+<br />
+
+![image](/static/images/sus.png)
+
+<br />
+
+Here are some common suspended chord shapes:  
+
+<br />
+
+![image](/static/images/sus2.png)
+
+<br />
+
+Suspended chords are usually used to create variation in a piece of music. They can be used as substitutes for any of their respective major triads, but most often are used for the I, IV, and V chords.   
+
+<br />
+
+## Musical Notation – Reading Standard Music
+
+<br />
+
+Music is now written in a universal language, consisting of mainly the types of notes that are played, and the length of time that each note is played. 
+For the purposes of learning guitar, we should have at least a basic understanding of standard notation, and a thorough grasp of guitar tablature.
+
+We will begin with identifying notes along musical staves, otherwise known as standard musical notation. The musical stave looks something like this:
+
+<br />
+
+![image](/static/images/scale11.png)
+
+<br />
+
+The following diagrams help to simplify the above diagram a little further:
+
+<br />
+
+![image](/static/images/scale12.png)
+
+<br />
+
+![image](/static/images/scale13.png)
+
+<br />
+
+I know this looks really complicated, but hang in there. There is a much easier way to remember which note belongs where on the musical staff, and it involves memorizing catch phrases for both the spaces and the lines on the staff:
+
+<br />
+
+![image](/static/images/scale14.png)
+
+<br />
+
+To put what you have learned into practice, try this simple melody on the guitar: 
+
+<br />
+
+![image](/static/images/tab.png)
+
+<br />
+
+## The Circle of 4ths and 5ths – Understanding Key Signatures
+
+<br />
+
+The circle of 4ths and 5ths is a diagram used to help musicians understand the relationship between a key and the number of sharps or flats in the scale of that key. The diagram looks something like this:
+
+<br />
+
+![image](/static/images/circle.png)
+
+<br />
+
+![image](/static/images/circle2.png)
+
+<br />
+
+The main application of the circle is to be able to recognize key signatures in musical notation. This key signature for example has 3 sharps:
+
+<br />
+
+![image](/static/images/circle3.png)
+
+<br />
+
+Using the circle, we see that the key of A has 3 sharps in its scale. 
+
+As you go down the circle of fifths, the sharp being added is always a semitone below the actual key it belongs to. This is because the last step in the major scale is a half-step (semi-tone). 
+
+Study the circle of fiths (clockwise) carefully again.
+The first sharp, F#, is one half step below the actual key represented by the key signature of 1 sharp, which is the key of G. The next sharp, C#, is a semitone below D, the key represented by a key signature of 2 sharps.
+
+<br />
+
+![image](/static/images/circle4.png)
+
+<br />
 

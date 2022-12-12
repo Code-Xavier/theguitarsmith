@@ -1,8 +1,9 @@
-title: Lección
+---
+title: Lesson 
 date: '12-31-2021'
-tags: ['Spanish Lessons']
+tags: ['English Lessons', 'lessons']
 draft: false
-summary: Lesson 
+summary: 'Lesson '
 ---
 
 ![monkey](/static/images/beyond-basics.jpg)
