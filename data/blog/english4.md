@@ -1,6 +1,6 @@
 ---
-title: Lesson 
-date: '12-31-2021'
+title: Lesson Four
+date: '12-15-2021'
 tags: ['English Lessons', 'lessons']
 draft: false
 summary: 'Lesson '
@@ -128,7 +128,7 @@ Just like you use the CAGED system to connect major (and minor) scales, it can a
 
 <br />
 
-![image](/static/images/caged4.png)
+![image](/static/images/caged4.jpg)
 
 <br />
 

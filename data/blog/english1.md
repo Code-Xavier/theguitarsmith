@@ -1,12 +1,12 @@
 ---
-title: Lesson 
-date: '12-31-2021'
+title: Lesson One
+date: '12-15-2021'
 tags: ['English Lessons', 'lessons']
 draft: false
 summary: 'Lesson '
 ---
 
-![monkey](/static/images/monkey-guitar.jpg)
+![monkey](/static/images/monkey-music.jpg)
 
 ## Guitar Anatomy
 

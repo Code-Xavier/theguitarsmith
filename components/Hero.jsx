@@ -8,7 +8,7 @@ const Hero = () => {
       <div className={`flex-1 ${styles.flexStart} px-6} flex-col xl:px-0 `}>
         <div className="flex  flex-row items-center justify-between">
           <h1 className="text-6xl font-extrabold sm:text-4xl sm:leading-10 md:text-5xl md:leading-14 ">
-            Welcome, <br className=" sm:block" />{' '}
+            Welcome <br className=" sm:block" />{' '}
             <span className="text-gradient">Aspiring Guitarist!</span>{' '}
           </h1>
         </div>
@@ -17,7 +17,7 @@ const Hero = () => {
           I'm Xavier Valois-Smith, and I'm here to help you learn the guitar!
         </h1>
         <p className={`${styles.paragraph} mt-5 max-w-[470px] mb-4`}>
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+        Learning to play the guitar can be a daunting challenge. You see your favorite guitarists playing away, and they make it seem to easy - but when you sit down with your guitar, all that ease goes out the window, and you get stuck. Getting stuck gets you discouraged, and so you stop learning. I'm here to help you fix that!
         </p>
       </div>
 

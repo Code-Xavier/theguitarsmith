@@ -1,7 +1,7 @@
 ---
-title: Lesson 
-date: '12-31-2021'
-tags: ['English Lessons', 'lessons']
+title: Lección Cuatro
+date: '12-15-2022'
+tags: ['Spanish Lessons', 'lessons']
 draft: false
 summary: 'Lesson '
 ---
@@ -142,7 +142,7 @@ Aquí tienes algunas tablas de las escalas pentatónicas mayores y menores para 
 
 <br />
 
-![image](/static/images/caged4.png)
+![image](/static/images/caged4.jpg)
 
 <br />
 

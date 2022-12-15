@@ -40,10 +40,10 @@ export default function Home({ posts }) {
         <section id="home" className={`flex flex-col md:flex-row  `}>
           <div className={`flex-1 ${styles.flexStart} px-6} flex-col xl:px-0 `}>
             <h1 className="mt-2 mb-2 mr-1 text-2xl font-extrabold leading-9 sm:text-4xl sm:leading-10 md:mt-1 md:mb-1 md:text-3xl md:leading-14 text-gradient">
-              I’ve drawn from my own 7 years of experience learning guitar.
+              I’ve drawn from my own 7 years of experience of learning, playing, and teaching the guitar.
             </h1>
             <p className={`${styles.paragraph} mt-5 mb-4 max-w-[470px]`}>
-            "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+            Teaching myself to play the guitar was a long journey of trial and eroor - figuring out what worked, what didn't, what was important, and what was not, was by far the most dificult aspect of the journey. In these free lessons, I have combined the most essential concepts you need to learn and practice to advance quickly in your guitar-playing journey. I hope these lessons will be ablessing to you, and if they are, please be sure to share this website with others!
             </p>
           </div>
 
@@ -63,7 +63,7 @@ export default function Home({ posts }) {
               New: Practical Guitar For Beginners Course!
             </h1>
             <p className="text-lg leading-7 text-gray-500 dark:text-gray-400">
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore.
+            Skip the unessential parts and get straight to the good stuff with these practical guitar study guides!
             </p>
           </div>
           <div className="container py-12">
@@ -87,7 +87,7 @@ export default function Home({ posts }) {
             Nuevo: Curso Práctico De Guitarra Para Novatos
             </h1>
             <p className="text-lg leading-7 text-gray-500 dark:text-gray-400">
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore.
+            Sáltate las partes no esenciales y ve directamente a lo bueno con estas prácticas guías de estudio de la guitarra!
             </p>
           </div>
           <div className="container py-12">
